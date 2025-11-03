@@ -1,0 +1,2 @@
+Main-Class: edu.nyu.dcn.fsm.assignment.TCPFSMMain
+Class-Path: lib/Fsm.jar
